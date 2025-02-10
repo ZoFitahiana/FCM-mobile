@@ -3,6 +3,15 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 # Getting Started
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
+> Create a `google-services.json` File
+
+Before launching the application, you need to create a `google-services.json` file to configure Firebase. Follow the steps below:
+
+1. Log in to the [Firebase Console](https://console.firebase.google.com/).
+2. Select your project or create a new one.
+3. Add a new Android app to your project.
+4. Follow the instructions to download the `google-services.json` file.
+5. Place this file in the `android/app` directory of your project.
 
 ## Step 1: Start Metro
 
